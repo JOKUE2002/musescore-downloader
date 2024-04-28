@@ -1,0 +1,20 @@
+{
+  "name": "musescore-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "convert-svg-to-png": "^0.6.4",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pdfkit": "^0.15.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^22.7.1"
+  }
+}
